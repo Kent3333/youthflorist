@@ -52,8 +52,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Jalan Mutiara Emas
-  - line: Taman Mount Austin, 81100 Johor Bahru, Johor
+  - line: Jalan Mutiara Emas,
+  - line: Taman Mount Austin,
+  - line: 81100 Johor Bahru.
+
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
