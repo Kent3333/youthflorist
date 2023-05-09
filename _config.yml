@@ -28,7 +28,7 @@ color:
   primary: 808080 #808080
   primary-rgb: "128,128,128" #"128,128,128"
   secondary: CACACA #CACACA
-  secondary-dark: 233140 #A2122F
+  secondary-dark: B1B1B1 #b1b1b1
 
 # Footer settings
 footer:
